@@ -1,0 +1,1 @@
+The goal of this project is for me to learn and apply the basics of HTML. Fingers crossed and let's go.
